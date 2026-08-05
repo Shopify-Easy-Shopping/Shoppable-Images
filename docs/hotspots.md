@@ -101,7 +101,15 @@ When a product has more than one variant, the card shows a variant dropdown. Sol
 
 The card positions itself to stay inside the visible area of the screen, so pins near an edge still open a fully readable card.
 
-If **Open image in full-page popup on click** is enabled on the block, shoppers can also tap the expand control (**⛶**) to view the image enlarged in a full-page popup, with the hotspots still working.
+### The full-page popup
+
+If **Open image in full-page popup on click** is enabled on the block, shoppers can click the image itself, or tap the expand control (**⛶**) in its corner, to view it enlarged in a full-page popup. Every hotspot works inside the popup exactly as it does in place — pins open, product cards appear, and clicks are tracked.
+
+This is worth switching on for detail-heavy photography: a wide lookbook or room shot that is small in the page layout becomes properly browsable, and pins that would overlap at thumbnail size get room to breathe.
+
+The setting is available on both the *Shoppable Image* and *Shoppable Collection* blocks, and is **on by default**.
+
+> **The full-page popup is an Ultimate plan feature.** On the Free plan the image and its hotspots still render and work normally, but the popup does not open and no expand control is shown. You can preview it inside the Theme Editor before deciding to upgrade. See [Billing & Plans](billing) and [Theme Blocks](theme-blocks#plan-gated-settings).
 
 ---
 

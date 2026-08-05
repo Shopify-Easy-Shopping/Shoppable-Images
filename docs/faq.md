@@ -83,6 +83,12 @@ The Dashboard only checks your **home page** template on your **published** them
 **Can I change the pin colours?**
 Yes — pin colour, hover colour, and text colour are all block settings.
 
+**Can shoppers enlarge the image?**
+Yes, if **Open image in full-page popup on click** is enabled — they click the image, or the expand control in its corner, and it opens full-page with the hotspots still working. The setting is on both blocks and is on by default. It is an **Ultimate plan** feature: on Free the popup does not open on your live store, though you can preview it in the Theme Editor.
+
+**Clicking the image does nothing on my live store.**
+The full-page popup is an Ultimate feature. On the Free plan the pins still work but the image cannot be enlarged. See [Theme Blocks](theme-blocks#plan-gated-settings).
+
 ---
 
 ## Billing
@@ -99,8 +105,11 @@ Not directly. The app keeps the 3 most recently created. Creating a new image wi
 **Is analytics limited on Free?**
 No. It works identically on both plans.
 
-**Can I try Add to cart before paying?**
-Yes. Switch it on and preview it inside the Theme Editor on the Free plan. It just does not activate for real shoppers until you upgrade.
+**Which features need the Ultimate plan?**
+Unlimited images, plus three storefront display features: **Add to cart from hotspots**, the **full-page image popup**, and the **Masonry** collection layout.
+
+**Can I try Add to cart or the popup before paying?**
+Yes. Switch them on and preview them inside the Theme Editor on the Free plan. They just do not activate for real shoppers until you upgrade.
 
 **How do I cancel?**
 Go to **Pricing** and click **Downgrade to Free**. Your subscription is cancelled and you drop to the Free plan.
@@ -141,6 +150,8 @@ No. Images beyond the 3 most recent are locked, not deleted, and come straight b
 **Image ID** — the identifier you paste into the *Shoppable Image* block to tell it which image to render.
 
 **Locked** — the status of an image that is blocked by the Free plan's 3-image limit. Hidden from the storefront, but fully preserved.
+
+**Full-page popup** — an enlarged, full-screen view of an image, opened by clicking it or its expand control, with the hotspots still working. An Ultimate plan feature, controlled by the *Open image in full-page popup on click* block setting.
 
 **Masonry** — a staggered grid layout where each image keeps its own height and the gaps are filled. An Ultimate plan feature.
 

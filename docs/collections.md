@@ -97,4 +97,14 @@ Because "Title (A–Z)" sorts on the image title, naming your images consistentl
 
 ---
 
+## Enlarging Images in a Grid
+
+Grid thumbnails are, by definition, small — which is exactly where a lot of hotspot detail gets lost. The collection block's **Open image in full-page popup on click** setting lets shoppers click any image in the grid to open it full-page, at proper size, with its hotspots still working.
+
+This pairs particularly well with a three- or four-column grid: the grid stays compact on the page, and each photo is one click away from being properly browsable.
+
+The setting is on by default and applies to every image in the grid. It is an **Ultimate plan** feature — see [Theme Blocks](theme-blocks#plan-gated-settings).
+
+---
+
 [← Back to Home](index)

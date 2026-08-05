@@ -40,6 +40,7 @@ On your storefront, a shopper taps a pin and a small product card appears with t
 - **Store images or direct upload** — pick an existing file from Shopify Files, or upload a new one straight from your computer.
 - **Collections** — group related images and render them as a responsive grid, with grid or masonry layout.
 - **Add to cart from the hotspot** — shoppers can add a product, and choose a variant, without leaving the page. *(Ultimate plan)*
+- **Full-page image popup** — shoppers can click an image to enlarge it, with every hotspot still working, so detail shots stay shoppable. *(Ultimate plan)*
 - **Masonry layout** — staggered, Pinterest-style collection grid. *(Ultimate plan)*
 - **Click analytics** — store-wide totals, per-image performance, and a top-hotspots leaderboard. Included on **every plan, including Free**.
 - **Publish / unpublish** — hide an image from your storefront without deleting it or losing its hotspots.
@@ -53,7 +54,7 @@ On your storefront, a shopper taps a pin and a small product card appears with t
 
 > **Analytics is not limited on the Free plan.** Click tracking, the Analytics page, and per-image breakdowns all work exactly the same on Free and Ultimate.
 
-> **Add to cart and Masonry layout are Ultimate features.** On the Free plan you can still switch them on and preview them inside the Theme Editor, but they will not be active for real shoppers on your live store.
+> **Add to cart, the full-page popup, and Masonry layout are Ultimate features.** On the Free plan you can still switch them on and preview them inside the Theme Editor, but they will not be active for real shoppers on your live store. Everything else — the image, the pins, the product cards, and click tracking — works normally on Free.
 
 > **Product details are snapshotted.** When you attach a product to a hotspot, the app stores a copy of its title, image, and price at that moment. If you later change the price in Shopify, re-save the hotspot to refresh it. See [Hotspots](hotspots#product-details-are-snapshotted).
 

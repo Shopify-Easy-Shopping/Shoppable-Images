@@ -34,6 +34,7 @@ Includes:
 - Collection blocks
 - Add to cart *(preview only)*
 - Masonry layout *(preview only)*
+- Full-page popup *(preview only)*
 - Full analytics
 - Basic support
 
@@ -52,6 +53,7 @@ Includes:
 - Collection blocks
 - Add to cart from hotspots
 - Masonry collection layout
+- Full-page image popup
 - Full analytics
 - Priority support
 
@@ -72,6 +74,7 @@ Same features as Ultimate Monthly, billed once a year at **$39** — about **$3.
 | Shoppable Collection block | ✅ | ✅ |
 | Grid layout | ✅ | ✅ |
 | Masonry layout | Preview only | ✅ |
+| Full-page image popup | Preview only | ✅ |
 | Add to cart from hotspots | Preview only | ✅ |
 | Variant selection in cards | Preview only | ✅ |
 | Click analytics | ✅ | ✅ |
@@ -110,7 +113,9 @@ Locked images show a **Locked** badge on the images list, and their edit screen 
 
 ### Preview-only features
 
-**Add to cart** and **Masonry layout** can be switched on in the Theme Editor on the Free plan, and you will see them working **in the Theme Editor preview**. They do not take effect for real shoppers on your live store until you upgrade. See [Theme Blocks](theme-blocks#plan-gated-settings).
+**Add to cart**, the **full-page image popup**, and **Masonry layout** can all be switched on in the Theme Editor on the Free plan, and you will see them working **in the Theme Editor preview**. They do not take effect for real shoppers on your live store until you upgrade. See [Theme Blocks](theme-blocks#plan-gated-settings).
+
+On the Free plan your live store still shows the image, the pins, the product cards, and the **View product** links, and still records analytics — the popup simply does not open, *Add to cart* buttons are not rendered, and masonry falls back to the standard grid.
 
 ---
 
@@ -127,7 +132,8 @@ You are returned to the pricing page and the new plan is active immediately.
 
 - Every locked image is **unlocked** at once, with all of its hotspots intact.
 - The image limit is removed — create as many as you want.
-- **Add to cart** and **Masonry** become active on your live storefront, using whatever block settings you already saved. No theme changes are needed.
+- **Add to cart**, the **full-page popup**, and **Masonry** become active on your live storefront, using whatever block settings you already saved. No theme changes are needed.
+- Because the popup setting is **on by default**, expect it to start working on every block where you have not deliberately unchecked it.
 
 > **Note:** Unlocking restores images to their previous **Published** state. An image you had deliberately hidden before it was locked stays hidden — turn it back on from its edit screen.
 
@@ -157,7 +163,8 @@ Your subscription is cancelled and your shop returns to the Free plan.
 
 - Your **3 most recently created** images stay active.
 - **Every other image is locked** — hidden from your storefront, but not deleted. All hotspots and all click history are kept.
-- **Add to cart** and **Masonry** stop working on your live store. They stay switched on in your block settings and keep working in the Theme Editor preview.
+- **Add to cart**, the **full-page popup**, and **Masonry** stop working on your live store. They stay switched on in your block settings and keep working in the Theme Editor preview.
+- Images and hotspots keep rendering and working in place — shoppers can still open pins and follow **View product** links. They just cannot enlarge an image or add to cart from the card.
 - Analytics continues to work in full.
 
 > **Nothing is ever deleted by a downgrade.** Locking is fully reversible: upgrade again and every locked image comes straight back, exactly as it was, with its hotspots and history. You never have to rebuild anything.
@@ -188,6 +195,12 @@ No. Hotspots are unlimited on every plan, including Free. Only the number of *im
 
 **Is analytics limited on the Free plan?**
 No. Click tracking, the Analytics page, per-image breakdowns, and full history are identical on both plans.
+
+**Which features are Ultimate-only?**
+Three, all of them storefront display features: **Add to cart from hotspots**, the **full-page image popup**, and the **Masonry** collection layout — plus unlimited images. Everything else, including all analytics, is on Free.
+
+**Can I try the full-page popup before paying?**
+Yes. It is on by default. Open the Theme Editor on the Free plan and click the image in the preview — the popup opens, with hotspots working. It just does not open for real shoppers until you upgrade.
 
 **Do I need to change my theme after upgrading?**
 No. Unlocked images and the plan-gated block settings take effect automatically.

@@ -64,7 +64,7 @@ You can add as many blocks as you like, on as many pages as you like, each point
 |---|---|---|---|
 | **Shoppable Image ID** | Text | *(empty)* | The image to render. Copy it from the app's Images list. **Required** — the block shows nothing without it |
 | **Maximum width (px)** | 400–1800, step 50 | 1600 | Caps how wide the image renders. The image is always responsive below this width |
-| **Open image in full-page popup on click** | Checkbox | On | Lets shoppers tap the expand control to view the image enlarged in a full-page popup, hotspots still working |
+| **Open image in full-page popup on click** | Checkbox | On | Lets shoppers click the image, or tap the expand control, to view it enlarged in a full-page popup with the hotspots still working. **Ultimate plan** — see below |
 | **Show "Add to cart" in product cards** | Checkbox | Off | Adds an *Add to cart* button, with variant selection, to each product card. **Ultimate plan** — see below |
 | **"View product" opens in** | Same tab / New tab | Same tab | Where the product link goes |
 | **Pin color** | Colour | `#5c6ac4` | The pin's normal colour |
@@ -85,6 +85,7 @@ You can add as many blocks as you like, on as many pages as you like, each point
 | **Columns on tablet** | 1–4 | 2 | Applies to screens under 990px wide |
 | **Columns on mobile** | 1–3 | 1 | Applies to screens under 750px wide |
 | **Maximum width (px)** | 400–1800, step 50 | 1600 | Caps the total width of the grid |
+| **Open image in full-page popup on click** | Checkbox | On | Lets shoppers click any image in the grid, or tap its expand control, to view it enlarged in a full-page popup with the hotspots still working. **Ultimate plan** — see below |
 | **Show "Add to cart" in product cards** | Checkbox | Off | Adds an *Add to cart* button, with variant selection, to each product card. **Ultimate plan** |
 | **"View product" opens in** | Same tab / New tab | Same tab | Where the product link goes |
 | **Pin color** | Colour | `#5c6ac4` | The pin's normal colour |
@@ -95,17 +96,23 @@ You can add as many blocks as you like, on as many pages as you like, each point
 
 ## Plan-Gated Settings
 
-Two settings are part of the **Ultimate plan**:
+Three settings are part of the **Ultimate plan**:
 
 - **Show "Add to cart" in product cards**
 - **Layout → Masonry**
+- **Open image in full-page popup on click**
 
 On the Free plan these settings are not hidden. You can switch them on and **see them working inside the Theme Editor preview**, so you can decide whether they are worth upgrading for. On your **live storefront**, however:
 
 - *Add to cart* buttons do not appear — shoppers get the **View product** link only.
 - *Masonry* falls back to the standard grid layout.
+- The *full-page popup* does not open. The image and its hotspots still render and work normally in place — shoppers simply cannot enlarge the image, and no expand control is shown.
 
-The Theme Editor shows a short note on each setting explaining this. Once you upgrade, both take effect on your live store immediately, with no theme changes needed. See [Billing & Plans](billing).
+While previewing in the Theme Editor on the Free plan, the block displays a notice explaining which feature is preview-only — for example *"The full-page popup is preview only — upgrade to Ultimate to use it on your live store."* That notice is only ever visible to you in the editor; shoppers never see it.
+
+Once you upgrade, all three take effect on your live store immediately, with no theme changes needed. See [Billing & Plans](billing).
+
+> **Note:** The popup setting is **on by default** on both blocks. On the Free plan that default has no effect on your live store, so there is nothing to turn off — but it does mean the popup switches itself on for real shoppers the moment you upgrade, unless you deliberately uncheck it.
 
 ---
 
@@ -144,6 +151,14 @@ This is a detection limitation only. Your block works normally wherever you put 
 ### "Add to cart" does not show on my live store
 
 That is the Free plan behaviour. It previews in the Theme Editor but is inactive for real shoppers until you upgrade. See [Plan-Gated Settings](#plan-gated-settings).
+
+### Clicking the image does not open the popup on my live store
+
+Same reason — the full-page popup is an Ultimate feature. On the Free plan the expand control is not rendered and clicking the image does nothing, even though the setting is checked and works in the Theme Editor preview. Everything else on the image keeps working: pins open, product cards appear, and clicks are still tracked. See [Plan-Gated Settings](#plan-gated-settings).
+
+### I see a "preview only" notice above my block
+
+That notice appears only inside the Theme Editor, on the Free plan, when you have switched on a feature that needs Ultimate. It is there to tell you the preview will not match your live store. Your customers never see it.
 
 ### The grid shows fewer images than my collection has
 
