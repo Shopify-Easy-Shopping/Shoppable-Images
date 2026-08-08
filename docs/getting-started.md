@@ -59,6 +59,9 @@ Open the Theme Editor and add the **Shoppable Image** app block to a page, then 
 
 Once shoppers start tapping pins, the Analytics page fills in. See [Analytics](analytics).
 
+
+![Onboarding Checklist](./images/onboarding-checklist.png)
+
 ---
 
 ## The Dashboard
@@ -73,11 +76,15 @@ The Dashboard is the app's home screen. It shows:
 | Total Hotspots | Every pin across every image |
 | Total Clicks | Every recorded hotspot open, all time |
 
+![Analytics Overview](./images/dashboard-analytics-overview.png)
+
 **Theme block status**
 
 The Dashboard checks your **published (main) theme** and tells you whether the *Shoppable Image* and *Shoppable Collection* blocks have been added. If a block is missing, you get a button that deep-links you straight into the Theme Editor with the block ready to insert.
 
 > **Note:** The theme check only inspects your **home page template** (`templates/index.json`). If you added the block to a different page — a product page, a custom landing page, a lookbook page — the Dashboard will still report the block as "not added". That is only a detection limitation; your block works perfectly well wherever you put it. See [Theme Blocks](theme-blocks#the-dashboard-says-the-block-is-not-added-but-it-is).
+
+![Theme block status](./images/dashboard-theme-block-status.png)
 
 **Plan banners**
 
@@ -85,6 +92,10 @@ If you are on the Free plan you will see one of two banners:
 
 - *"Free plan: N of 3 images used"* — informational, while you still have room.
 - *"Free plan limit reached (3 images)"* — you have hit the cap. Any images beyond the 3 most recent are locked. See [Billing & Plans](billing).
+
+
+![Aproaching Image Limit](./images/plan-usage-1.png)
+![Image Limit Reached](./images/plan-usage-2.png)
 
 ---
 

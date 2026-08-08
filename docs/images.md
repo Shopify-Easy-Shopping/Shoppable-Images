@@ -45,6 +45,9 @@ If you already have collections set up, you can pick one here. You can also leav
 
 Click **Save**. The app takes you straight to the hotspot editor so you can start placing pins — see [Hotspots](hotspots).
 
+
+![Create Shoppable Image](./images/create-shoppable-image.png)
+
 ---
 
 ## The Images List
@@ -59,6 +62,8 @@ Click **Save**. The app takes you straight to the hotspot editor so you can star
 | Status | `Live`, `Hidden`, or `Locked` |
 | Actions | Open the hotspot editor, edit settings, or view analytics |
 
+![Manage Shoppable Images](./images/manage-images.png)
+
 ### Status badges
 
 | Badge | What it means |
@@ -67,6 +72,8 @@ Click **Save**. The app takes you straight to the hotspot editor so you can star
 | **Hidden** | You turned off *Published*. The image and its hotspots are kept, but the block renders nothing |
 | **Locked** | Blocked by the Free plan's 3-image limit. Not rendering on your storefront. Upgrade to unlock — see [Billing & Plans](billing) |
 
+![Image Status](./images/image-status.png)
+
 ---
 
 ## Finding the Image ID
@@ -74,6 +81,9 @@ Click **Save**. The app takes you straight to the hotspot editor so you can star
 The **image ID** is what connects an image in the app to a block in your theme. You will need it when you configure the *Shoppable Image* block.
 
 It is shown on the **Images** list directly under each image title, as `ID: …`. Copy it and paste it into the block's **Shoppable Image ID** setting in the Theme Editor. See [Theme Blocks](theme-blocks).
+
+
+![Find Image ID](./images/find-image-id.png)
 
 ---
 

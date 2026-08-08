@@ -57,6 +57,9 @@ From here you can:
 - **Remove from collection** — takes an image out of the collection. The image itself is untouched: it keeps its hotspots, its click history, and its own *Shoppable Image* block if it has one. It simply stops appearing in this collection's grid.
 - Open any image to edit its hotspots.
 
+
+![Manage Collections](./images/manage-collection.png)
+
 ---
 
 ## Finding the Collection ID

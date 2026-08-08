@@ -36,6 +36,8 @@ The pin appears immediately. Repeat for every product in the photo.
 
 > **Tip:** Blank labels (plain **+** pins) keep a busy lookbook clean. Use labels when a shopper would not otherwise know what a pin refers to — *"Sofa"*, *"Lamp"*, *"£29"*.
 
+![Add Hotspots](./images/add-hotspots.png)
+
 ---
 
 ## Moving a Hotspot
@@ -52,6 +54,8 @@ Two ways, both saved automatically:
 | **Shift** + arrow keys | 0.25% of the image — for fine alignment |
 
 Positions are stored as a percentage of the image's width and height, so a pin stays in the right place at every screen size, on desktop and mobile alike.
+
+![Moving a hotspot](./images/moving-hotspot.png)
 
 ---
 

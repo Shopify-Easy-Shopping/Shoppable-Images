@@ -56,6 +56,8 @@ On the app's **Dashboard**, the theme block status card gives you a direct link 
 
 You can add as many blocks as you like, on as many pages as you like, each pointing at a different image or collection.
 
+![Add Theme Block](./images/add-theme-block.png)
+
 ---
 
 ## Shoppable Image — Settings
@@ -125,6 +127,8 @@ The three colour settings are usually all you need. A few pointers:
 - Pins animate with a gentle pulse so shoppers notice them without any instruction text.
 
 ---
+
+![Theme Block Settings](./images/configure-theme-block.png)
 
 ## Troubleshooting
 
