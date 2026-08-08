@@ -75,6 +75,7 @@ You can add as many blocks as you like, on as many pages as you like, each point
 | **Pin hover color** | Colour | `#202e78` | Used on hover, and while the pin's product card is open |
 | **Pin text color** | Colour | `#ffffff` | Colour of the pin's label text or **+** icon |
 
+![Theme Block Settings](./images/configure-theme-block.png)
 ---
 
 ## Shoppable Collection — Settings
@@ -130,7 +131,6 @@ The three colour settings are usually all you need. A few pointers:
 
 ---
 
-![Theme Block Settings](./images/configure-theme-block.png)
 
 ## Troubleshooting
 
