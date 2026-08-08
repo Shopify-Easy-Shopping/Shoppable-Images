@@ -57,14 +57,13 @@ From here you can:
 - **Remove from collection** — takes an image out of the collection. The image itself is untouched: it keeps its hotspots, its click history, and its own *Shoppable Image* block if it has one. It simply stops appearing in this collection's grid.
 - Open any image to edit its hotspots.
 
-
-![Manage Collections](./images/manage-collection.png)
-
 ---
 
 ## Finding the Collection ID
 
 The **collection ID** is what connects a collection to a *Shoppable Collection* block in your theme. It is shown on the collections list and on the collection's own page. Copy it and paste it into the block's **Collection ID** setting — see [Theme Blocks](theme-blocks).
+
+![Manage Collections](./images/manage-collection.png)
 
 ---
 
