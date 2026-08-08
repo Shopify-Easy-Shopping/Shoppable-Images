@@ -38,13 +38,13 @@ Includes:
 - Full analytics
 - Basic support
 
-### Ultimate Monthly — $3.90 per month
+### Ultimate Monthly — $4.50 per month
 
-| | |
-|---|---|
-| **Price** | $3.90 / month |
-| **Shoppable images** | Unlimited |
-| **Hotspots per image** | Unlimited |
+| |               |
+|---|---------------|
+| **Price** | $4.50 / month |
+| **Shoppable images** | Unlimited     |
+| **Hotspots per image** | Unlimited     |
 
 Includes:
 
@@ -57,9 +57,9 @@ Includes:
 - Full analytics
 - Priority support
 
-### Ultimate Annual — $39 per year
+### Ultimate Annual — $45 per year
 
-Same features as Ultimate Monthly, billed once a year at **$39** — about **$3.25 per month**, a **20% saving** over paying monthly.
+Same features as Ultimate Monthly, billed once a year at **$45** — about **$3.75 per month**, a **20% saving** over paying monthly.
 
 ---
 
