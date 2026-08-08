@@ -42,6 +42,8 @@ Both are **section-level** blocks, which means you add them as their own section
 
 On the app's **Dashboard**, the theme block status card gives you a direct link that opens the Theme Editor with the block ready to insert. Click it, position the section, fill in the ID, and save.
 
+![Quickly Add Theme Block](./images/quickly-add-theme-block.png)
+
 ### The manual way
 
 1. In Shopify admin, go to **Online Store → Themes**.
