@@ -75,6 +75,7 @@ You can add as many blocks as you like, on as many pages as you like, each point
 | **Pin color** | Colour | `#5c6ac4` | The pin's normal colour |
 | **Pin hover color** | Colour | `#202e78` | Used on hover, and while the pin's product card is open |
 | **Pin text color** | Colour | `#ffffff` | Colour of the pin's label text or **+** icon |
+
 ---
 
 ## Shoppable Collection — Settings
