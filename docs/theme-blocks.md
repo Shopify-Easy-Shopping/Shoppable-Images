@@ -59,6 +59,7 @@ On the app's **Dashboard**, the theme block status card gives you a direct link 
 You can add as many blocks as you like, on as many pages as you like, each pointing at a different image or collection.
 
 ![Add Theme Block](./images/add-theme-block.png)
+![Theme Block Settings](./images/configure-theme-block.png)
 
 ---
 
@@ -74,8 +75,6 @@ You can add as many blocks as you like, on as many pages as you like, each point
 | **Pin color** | Colour | `#5c6ac4` | The pin's normal colour |
 | **Pin hover color** | Colour | `#202e78` | Used on hover, and while the pin's product card is open |
 | **Pin text color** | Colour | `#ffffff` | Colour of the pin's label text or **+** icon |
-
-![Theme Block Settings](./images/configure-theme-block.png)
 ---
 
 ## Shoppable Collection — Settings
