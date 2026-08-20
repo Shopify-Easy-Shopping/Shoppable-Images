@@ -17,7 +17,7 @@ description: Install the app and set up your first shoppable image
 
 ## Installing the App
 
-1. Open the **Shoppable Image Hotspots** listing on the Shopify App Store.
+1. Open the **[Shoppable Image Hotspots](https://apps.shopify.com/shoppable-image-hotspots-1)** listing on the Shopify App Store.
 2. Click **Install**.
 3. Review the permissions and click **Install app**.
 
