@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Shoppable Image Hotspots — Documentation
+title: Shoppable Image Product Pins — Documentation
 description: Turn any image into a shoppable experience with clickable product hotspots
 ---
 
-Welcome to the documentation for **Shoppable Image Hotspots**. This guide covers everything from installing the app to placing your first hotspot, publishing blocks to your theme, reading analytics, and managing your billing plan.
+Welcome to the documentation for **Shoppable Image Product Pins**. This guide covers everything from installing the app to placing your first hotspot, publishing blocks to your theme, reading analytics, and managing your billing plan.
 
 ---
 
@@ -26,7 +26,7 @@ Welcome to the documentation for **Shoppable Image Hotspots**. This guide covers
 
 ## What the App Does
 
-Shoppable Image Hotspots lets you place clickable **pins** on top of any image — a lookbook photo, a flat lay, a room shot, a size chart — and connect each pin to a product in your store.
+Shoppable Image Product Pins lets you place clickable **pins** on top of any image — a lookbook photo, a flat lay, a room shot, a size chart — and connect each pin to a product in your store.
 
 On your storefront, a shopper taps a pin and a small product card appears with the product image, title, price, a link to the product page, and (on the Ultimate plan) an **Add to cart** button with variant selection. Every pin open is recorded, so you can see which parts of which images actually drive interest.
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Privacy Policy
-description: "How Shoppable Image Hotspots collects, uses, and protects your data"
+description: "How Shoppable Image Product Pins collects, uses, and protects your data"
 ---
 
 [← Back to Home](index)
@@ -12,7 +12,7 @@ description: "How Shoppable Image Hotspots collects, uses, and protects your dat
 
 **Last updated: August 4, 2026**
 
-This Privacy Policy describes how **Shoppable Image Hotspots** ("the App", "we", "us") collects, uses, and retains data when you install and use the App on your Shopify store. By installing the App, you agree to the practices described in this policy.
+This Privacy Policy describes how **Shoppable Image Product Pins** ("the App", "we", "us") collects, uses, and retains data when you install and use the App on your Shopify store. By installing the App, you agree to the practices described in this policy.
 
 * TOC
 {:toc}
